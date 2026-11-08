@@ -1,4 +1,4 @@
-﻿# Edgar López — Brand & Identity Assets
+# Edgar López — Brand & Identity Assets
 
 Recursos oficiales de identidad visual y logotipo de **Edgar López** (Ingeniería Mecatrónica, Desarrollo Web & Aplicaciones).
 
